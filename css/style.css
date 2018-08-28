@@ -39,7 +39,7 @@ a:hover {
 
 @media screen and (max-width: 500px) {
     p {
-        font-size: 15pt;
+        font-size: 35pt;
         line-height: 1.7em;
         width: 100%;
     }
